@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "frontend-fastapi-integration",
+      "title": "Frontend to API Integration with FastAPI",
+      "description": "Connect a JavaScript frontend to FastAPI endpoints to fetch and submit data.",
+      "path": "assignments/frontend-fastapi-integration",
+      "dueDate": "2026-05-23",
+      "attachments": [
+        {
+          "name": "Starter Backend",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Starter Frontend",
+          "file": "starter-frontend.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
